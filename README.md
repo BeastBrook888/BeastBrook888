@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science major, De Anza College<br>Prospective Software Engineer or Mobile Application/Video Game Developer<br>Former Software Data Engineer Intern, Pair Anything (Davis, CA)<br>Java, Python, C++, Web-scraping (Intermediate)<br>Currently learning Bash scripting and R programming language (interested in Data Science)
+Incoming Data Science major, UC Berkeley<br>Computer Science major, De Anza College (2021-2024)<br>Prospective Software Engineer or Mobile Application/Video Game Developer<br>Former Software Data Engineer Intern, Pair Anything (Davis, CA, 2022)<br>Java, Python, C++, Web-scraping (Intermediate), Bash scripting and R programming language<br>Currently learning iOS Development and taking Intro to Data Science (Pandas, Sci-kit for Machine Learning)
 
 
 ## 🌐 Socials:
