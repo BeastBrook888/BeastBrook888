@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science major, UC Berkeley (Currently)<br>Computer Science major, De Anza College (2021-2024)<br>Prospective Data Scientist/Analyst, Software Engineer or Mobile Application/Video Game Developer<br>Former Data Science Intern @NASA Ames Research Center<br>Python, Tableau, SQL, Java
+Digital Products Intern @ Red Bull (Jun 2022-Sep 2026)<br>Data Science major, UC Berkeley (2024-2026)<br>Computer Science major, De Anza College (2021-2024)<br>Prospective Data Scientist/Analyst, Software Engineer or Mobile Application/Video Game Developer<br>Former Data Science Intern @NASA Ames Research Center<br>Python, Tableau, SQL, Java
 
 
 ## 🌐 Socials:
